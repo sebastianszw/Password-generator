@@ -48,3 +48,22 @@ input {
     text-align: center;
     font-weight: 600;
 }
+
+@media (max-width: 1000px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 0.8rem;
+    }
+
+    .container {
+        width: 90vw;
+    }
+
+    input {
+        padding: 5px 25px;
+        font-size: 0.8rem;
+    }
+}
