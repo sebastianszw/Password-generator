@@ -55,7 +55,7 @@ input {
     }
 
     p {
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
 
     .container {
@@ -63,7 +63,8 @@ input {
     }
 
     input {
-        padding: 5px 25px;
+        padding: 10px 30px;
         font-size: 0.8rem;
+        border-radius: 2px;
     }
 }
